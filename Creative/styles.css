@@ -1,0 +1,116 @@
+* {
+    color: #d4c8db;
+    margin: 0px auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    color: #452b51;
+}    
+body{
+    background: url("background_image.jpg") repeat center;
+}
+#header {
+    display: inline-block;
+}
+.menuname {
+    background-color: wheat;
+    padding: 160px 10px;
+    border-radius: 100%;
+    text-align: center;
+    margin: 0px;
+    display: inline-block;
+}
+.menuprojects{
+    background-color: steelblue;
+    padding: 50px 10px;
+    border-radius: 100%;
+    text-align: center;
+    margin: -20px;
+    display: inline-block;
+}
+.menulinks{
+    background-color: sienna;
+    padding: 15px 0px;
+    border-radius: 100%;
+    text-align: center;
+    margin: 0px;
+    display: inline-block;
+}
+.menureferences{
+    background-color: yellowgreen;
+    padding: 80px 10px;
+    padding-left: 0px;
+    padding-right: 40px;
+    border-radius: 100%;
+    text-align: center;
+    margin: 0px;
+    margin-left: -10px;
+    display: inline-block;
+}
+.menuhistory{
+    background-color: rebeccapurple;
+    padding: 45px 0px;
+    border-radius: 100%;
+    text-align: center;
+    margin: 0px;
+    margin-left: -45px;
+    display: inline-block;
+}
+#picme {
+    padding: 20px;
+    padding-bottom: 0;
+    width: 500px;
+    display: block;
+    margin-top: -100px;
+}
+.link{
+    text-align: center;
+}
+.topmenu {
+    padding: 5px;
+}
+a{
+background-color: #f9cd48;
+padding: 10px;
+border-radius: 10px;
+}
+.small_links {
+    margin: 20px;
+    border-radius: 100%;
+    width: 50px;
+}.big_links {
+    border-radius: 100%;
+    width: 75px;
+}
+.split3 {
+    text-align: center;
+}
+.pic3 {
+    width: 400px;
+}
+h3 {
+    font-size: 24px;
+    margin: 5px;
+    background-color: #f9cd48;
+    border-radius: 15px;
+}
+h4 {
+    font-size: 24px;
+    margin: 5px;
+    background-color: #f9cd48;
+    border-radius: 15px;
+    display: inline-block;
+    padding: 0px 10px;
+}
+#copywright {
+    margin: 10px;
+    text-align: center;
+
+}
+#offcolortext {
+    color: #452b51;
+}
+.split {
+    display: inline-block; 
+    margin: 5px;
+    vertical-align: top;
+}
